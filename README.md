@@ -7,4 +7,4 @@ Script de instalación automatizada para configuraciones post-instalación en Wi
 Para ejecutar este script directamente desde PowerShell, copia y pega el siguiente comando:
 
 ```powershell
-irm https://raw.githubusercontent.com/damian66VI/tweak_dmn/main/instalador.ps1 | iex
+irm https://raw.githubusercontent.com/damian66VI/tweak_dmn/main/instalador_1.ps1 | iex
